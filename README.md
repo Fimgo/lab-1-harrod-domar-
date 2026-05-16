@@ -1,7 +1,6 @@
 # 📈 Harrod-Domar Model in Mathcad
 
-[![Mathcad](https://img.shields.io/badge/Software-Mathcad%20Prime-red)](https://www.ptc.com/en/products/mathcad)
-[![Macroeconomics](https://img.shields.io/badge/Field-Macroeconomics%20%26%20Cybernetics-blue)]()
+
 
 Реалізація та калібрування динамічної моделі економічного зростання Харрода-Домара в середовищі **Mathcad Prime** на основі реальних макроекономічних даних ВВП Австрії.
 
