@@ -1,0 +1,12 @@
+# Mathcad temporary and backup files
+*.tmp
+*.bak
+*~
+*.log
+*.mcdx.bak
+*.xmcd.bak
+
+# MATLAB files
+*.asv
+*.mat
+*.mex*
